@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who Am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Siddhant Jain. I am a high school student at Horace Mann School.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
