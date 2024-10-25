@@ -2,8 +2,8 @@
 layout: post
 title: Research Meta Analysis
 subtitle: From college to the pros-Predicting the NBA amateur player draft
-cover-img: /assets/img/draft.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/thumb.jpg
+thumbnail-img: /assets/img/draft.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Siddhant Jain
