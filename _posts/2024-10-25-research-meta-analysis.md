@@ -8,6 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Siddhant Jain
 ---
+![Wallpaper](/assets/img/1984_nba_draft_tribute_wallpaper_by_skythlee_dal9sm2-fullview.jpg)
+
 # **Introduction**
 The purpose of this post was to read a research paper and find its credibility. My interest in the NBA and analytics led me to [**From college to the pros: predicting the NBA amateur player draft**](https://www.jstor.org/stable/23883794?seq=3). The paper analyzes the relationship between a players' performance in college and its impact on their future in the NBA, whether it be draft position, performance, or more.
 
@@ -39,11 +41,12 @@ Aju J. Fenn is a professor of economics at **Colorado College**, where he has ta
 
 # **What datasets does this study reference or use? Are these datasets available to the public?**
 All the data used in this paper is available at **ESPN.com** and **Basketball-Reference.com** (Bbref) for free. Both of these are sports websites that collect, store, and analyze data about basketball at every level post high-school. College data, NBA data, all are stored here. All datasets are available to the public, and everything on ESPN and Bbref is available to the public, but some of the data on their websites (not related to this paper) is only available after having a subscription fee. 
+![draft](/assets/img/Formula.jpg)
 
-![Wallpaper](/assets/img/1984_nba_draft_tribute_wallpaper_by_skythlee_dal9sm2-fullview.jpg)
 
 # **Why are they interested in this data?**
 In their paper the authors are interested in this data to understand how **NBA teams** evaluate and select players from college basketball. Their goal is to **analyze whether the players' college performance metrics**, such as points scored, rebounds, and assists, align with their draft position. They aim to uncover patterns or inefficiencies in the drafting process by examining what factors truly influence a player's draft stock and how well these factors predict future professional success.
+![draft](/assets/img/Results.jpg)
 
 
 # **What data is being recorded? What data might be left out?**
