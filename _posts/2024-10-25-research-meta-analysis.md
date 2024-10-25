@@ -23,14 +23,17 @@ There is a **significant relationship** between a player's college performance (
 # **Who is collecting and analyzing this data?**
 ## **David J. Berri**
 ![David Berr](/assets/img/ns7mc2jd1f0reuug5v4cr4jo65.jpg)
+
 David J. Berri is a sports economist and professor at **Southern Utah University**, with a Ph.D. from Colorado State University. He specializes in player evaluation metrics in professional sports, particularly basketball. Berri co-authored The Wages of Wins and Stumbling on Wins, critiquing traditional sports statistics and introducing metrics like Wins Produced to assess player contributions. His work has appeared in major outlets like The New York Times and ESPN and is published in the Journal of Sports Economics. Berri also presents frequently at conferences such as WEAI and NAASE.
 
 ## **Stacey L. Brook**  
 ![Stacey Brook](/assets/img/Stacey_Brook_300.jpg)
+
 Stacey L. Brook is a sports economist and econometrician with a Ph.D. in economics from the University of Illinois at Urbana-Champaign. Currently a professor at the **University of Central Florida**, his research focuses on player valuation, performance metrics, and draft efficiency in leagues like the NFL and NBA. He co-authored The Wages of Wins, examining how economic principles influence player drafts and contracts. Brook's work, which uses econometric analysis of large datasets, has been featured at major conferences and cited by outlets such as ESPN and FiveThirtyEight, highlighting his influence in sports economics.
 
 ## **Aju J. Fenn**
 ![Aju Fenn](/assets/img/Aju-Fenn.jpg)
+
 Aju J. Fenn is a professor of economics at **Colorado College**, where he has taught since receiving his Ph.D. from the University of Utah. His research focuses on the economics of sports, particularly team attendance demand, player investment, and competitive balance in leagues like the NBA, NFL, and MLB. Fenn has co-authored influential papers such as "Race and Media Coverage of Professional Football" and collaborated on NBA draft predictions with David Berri and Stacey Brook. He regularly presents at conferences like the American Economic Association (AEA) and his work is cited by platforms like ESPN and Basketball-Reference.com.
 
 
