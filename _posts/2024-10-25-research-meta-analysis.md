@@ -46,7 +46,6 @@ All the data used in this paper is available at **ESPN.com** and **Basketball-Re
 
 # **Why are they interested in this data?**
 In their paper the authors are interested in this data to understand how **NBA teams** evaluate and select players from college basketball. Their goal is to **analyze whether the players' college performance metrics**, such as points scored, rebounds, and assists, align with their draft position. They aim to uncover patterns or inefficiencies in the drafting process by examining what factors truly influence a player's draft stock and how well these factors predict future professional success.
-![draft](/assets/img/Results.png)
 
 
 # **What data is being recorded? What data might be left out?**
@@ -55,6 +54,7 @@ The authors record data related to college basketball players’ performance met
 
 # **What evidence did they present to back up their conclusions?**
 They presented evidence by analyzing data on college basketball players, focusing on their college performance metrics such as points scored, rebounds, assists, and other key statistics. They compared these statistics to the order in which players were selected in the NBA draft. Their findings showed that points per game, rather than other performance metrics, played an outsized role in determining draft position, even though other factors like rebounds and shooting efficiency had more impact on a player's professional success. This evidence supported their conclusion that NBA teams often overvalue scoring ability in the draft, leading to inefficiencies in player selection.
+![draft](/assets/img/Results.png)
 
 
 # **How was this study funded?**
