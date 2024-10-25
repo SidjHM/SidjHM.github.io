@@ -63,10 +63,19 @@ The paper **"From College to the Pros: Predicting the NBA Amateur Player Draft"*
 
 # **Do you think publish or perish had an effect on this study?**
 David Berri was a respected voice in sports economics before this study, boasting several books, over 30 research papers, and numerous articles in various newspapers. His extensive involvement with economic organizations further solidified his credibility.
+
 Stacey Brook brought significant expertise, having published many research papers prior to 2011. His collaboration with Berri on The Wages of Wins: Taking Measure of the Many Myths in Modern Sport in 2006 highlighted their combined influence. Brook also served as a reviewer for esteemed journals, including The American Economist, Journal of Sports Economics, and the International Journal of Sports Finance.
+
 Aju Fenn established himself through multiple book chapters, including Sports Economics in 21st Century Economics and The Economics of NFL Attendance, along with 15+ papers on various topics before contributing to this research.
+
 The respected credentials and extensive publications of each author demonstrate that the **pressures of "publish or perish" did not influence this study**, lending credibility to their findings and underscoring the integrity of the research.
 
 
+# **Conclusion**
+The paper does a very good job of analyzing the draft and citing papers that have worked on topics mentioned in the paper. However, while the data is accessible to anybody on the internet, researchers will have to manually collect this data after scouring the websites. This could lead to differences in results as different websites might have some conflicting data on this topic. Other than that, it seems like the study was done under good faith and the researchers were presumptively not under any pressure to publish this. 
 
+Furthermore in a field like this, unless you have built a formula that is widely used and you want to push that agenda, there is no definitive conflict of interest. The paper does not seem to have any biases present and its conlusions are based purely on the results of the statistical tests they have connected. We have no way of determining whether the statistical tests were tampered with unless we reproduce the research, so that should not be a cause of concern.
+
+**Grade** 
+**4.8*/**5**
 
