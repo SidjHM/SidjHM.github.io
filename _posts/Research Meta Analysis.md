@@ -1,10 +1,61 @@
 ---
 layout: post
 title: Research Meta Analysis
-subtitle: From college to the pros: predicting the NBA amateur player draft
+subtitle: From college to the pros-Predicting the NBA amateur player draft
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Siddhant Jain
 ---
+
+
+
+**What are the null and alternative hypotheses?**
+**Null Hypothesis (H₀):**
+There is no significant relationship between a player's college performance (specifically, scoring) and their NBA draft position. In other words, scoring performance in college does not significantly improve a player's draft position.
+
+**Alternative Hypothesis (H₁):**
+There is a significant relationship between a player's college performance (specifically, scoring) and their NBA draft position. Specifically, players who score more in college are more likely to see an improvement in their draft position.
+
+
+**Who is collecting and analyzing this data?**
+**David J. Berri**
+David J. Berri is a sports economist and professor at Southern Utah University, with a Ph.D. from Colorado State University. He specializes in player evaluation metrics in professional sports, particularly basketball. Berri co-authored The Wages of Wins and Stumbling on Wins, critiquing traditional sports statistics and introducing metrics like Wins Produced to assess player contributions. His work has appeared in major outlets like The New York Times and ESPN and is published in the Journal of Sports Economics. Berri also presents frequently at conferences such as WEAI and NAASE.
+
+**Stacey L. Brook**  
+Stacey L. Brook is a sports economist and econometrician with a Ph.D. in economics from the University of Illinois at Urbana-Champaign. Currently a professor at the University of Sioux Falls, his research focuses on player valuation, performance metrics, and draft efficiency in leagues like the NFL and NBA. He co-authored The Wages of Wins, examining how economic principles influence player drafts and contracts. Brook's work, which uses econometric analysis of large datasets, has been featured at major conferences and cited by outlets such as ESPN and FiveThirtyEight, highlighting his influence in sports economics.
+
+**Aju J. Fenn**
+Aju J. Fenn is a professor of economics at Colorado College, where he has taught since receiving his Ph.D. from the University of Utah. His research focuses on the economics of sports, particularly team attendance demand, player investment, and competitive balance in leagues like the NBA, NFL, and MLB. Fenn has co-authored influential papers such as "Race and Media Coverage of Professional Football" and collaborated on NBA draft predictions with David Berri and Stacey Brook. He regularly presents at conferences like the American Economic Association (AEA) and his work is cited by platforms like ESPN and Basketball-Reference.com.
+
+
+**What datasets does this study reference or use? Are these datasets available to the public?**
+All the data used in this paper is available at ESPN.com and Basketball-Reference.com (Bbref) for free. Both of these are sports websites that collect, store, and analyze data about basketball at every level post high-school. College data, NBA data, all are stored here. All datasets are available to the public, and everything on ESPN and Bbref is available to the public, but some of the data on their websites (not related to this paper) is only available after having a subscription fee. 
+
+
+**Why are they interested in this data?**
+In their paper the authors are interested in this data to understand how NBA teams evaluate and select players from college basketball. Their goal is to analyze whether the players' college performance metrics, such as points scored, rebounds, and assists, align with their draft position. They aim to uncover patterns or inefficiencies in the drafting process by examining what factors truly influence a player's draft stock and how well these factors predict future professional success.
+
+
+**What data is being recorded? What data might be left out?**
+The authors record data related to college basketball players’ performance metrics to predict draft outcomes. This includes statistics like points per game, rebounds, assists, shooting percentages, and other measurable on-court achievements. However, the data might leave out qualitative factors such as a player’s leadership abilities, team dynamics, off-court behavior, and psychological attributes like work ethic or adaptability, which are harder to quantify but can still influence draft decisions. Additionally, team-specific needs or scouting biases might not be fully captured in the data.
+
+
+**What evidence did they present to back up their conclusions?**
+They presented evidence by analyzing data on college basketball players, focusing on their college performance metrics such as points scored, rebounds, assists, and other key statistics. They compared these statistics to the order in which players were selected in the NBA draft. Their findings showed that points per game, rather than other performance metrics, played an outsized role in determining draft position, even though other factors like rebounds and shooting efficiency had more impact on a player's professional success. This evidence supported their conclusion that NBA teams often overvalue scoring ability in the draft, leading to inefficiencies in player selection.
+
+
+**How was this study funded?**
+The paper "From College to the Pros: Predicting the NBA Amateur Player Draft" by David J. Berri, Stacey L. Brook, and Aju J. Fenn does not explicitly mention how the study was funded in the publicly available sources. Many academic papers in economics, such as this one, may be supported through grants from universities or research institutes. 
+
+
+**Do you think publish or perish had an effect on this study?**
+David Berri was a respected voice in sports economics before this study, boasting several books, over 30 research papers, and numerous articles in various newspapers. His extensive involvement with economic organizations further solidified his credibility.
+Stacey Brook brought significant expertise, having published many research papers prior to 2011. His collaboration with Berri on The Wages of Wins: Taking Measure of the Many Myths in Modern Sport in 2006 highlighted their combined influence. Brook also served as a reviewer for esteemed journals, including The American Economist, Journal of Sports Economics, and the International Journal of Sports Finance.
+Aju Fenn established himself through multiple book chapters, including Sports Economics in 21st Century Economics and The Economics of NFL Attendance, along with 15+ papers on various topics before contributing to this research.
+The respected credentials and extensive publications of each author demonstrate that the pressures of "publish or perish" did not influence this study, lending credibility to their findings and underscoring the integrity of the research.
+
+
+
+
