@@ -2,7 +2,7 @@
 layout: post
 title: Research Meta Analysis
 subtitle: From college to the pros-Predicting the NBA amateur player draft
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/draft.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
@@ -21,6 +21,7 @@ There is a significant relationship between a player's college performance (spec
 
 # **Who is collecting and analyzing this data?**
 ## **David J. Berri**
+![David Berr](/assets/img/ns7mc2jd1f0reuug5v4cr4jo65.jpg)
 David J. Berri is a sports economist and professor at Southern Utah University, with a Ph.D. from Colorado State University. He specializes in player evaluation metrics in professional sports, particularly basketball. Berri co-authored The Wages of Wins and Stumbling on Wins, critiquing traditional sports statistics and introducing metrics like Wins Produced to assess player contributions. His work has appeared in major outlets like The New York Times and ESPN and is published in the Journal of Sports Economics. Berri also presents frequently at conferences such as WEAI and NAASE.
 
 ## **Stacey L. Brook**  
