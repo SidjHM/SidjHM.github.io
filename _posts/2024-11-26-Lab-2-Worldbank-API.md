@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 author: Siddhant Jain
 ---
 
-#**Introduction**
+# **Introduction**
 In a world driven by data, understanding global development trends requires analyzing key indicators that reflect the economic, social, and infrastructural health of nations. The World Bank provides a treasure trove of such data, allowing us to examine critical metrics that shape the trajectory of countries around the globe. In this blog, I dive into a selection of these indicators to uncover meaningful patterns and insights.  
 
 The analysis spans a diverse set of countries—India, the United States, China, Brazil, and Russia—and focuses on the years 2015 to 2023, a transformative decade marked by global upheavals and recoveries. From population growth and GDP trends to education spending and access to electricity, the indicators paint a vivid picture of development progress and challenges.  
