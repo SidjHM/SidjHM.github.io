@@ -49,7 +49,7 @@ These countries were chosen based on the following rationale:
 **Economic Significance:** These nations are among the world’s largest economies, making their data highly relevant for understanding global economic and social dynamics.
 While limiting the countries meant excluding some regions, it allowed for a more focused analysis of development trends among representative economies with varied challenges and strengths.
 
-###**Code**
+### **Code**
   if __name__ == "__main__":
       # Define countries
       countries = [
@@ -71,11 +71,11 @@ This period was chosen for several reasons:
 
 By focusing on this decade, the analysis highlights contemporary issues and progress, offering insights into how countries are adapting to modern challenges like climate change, health crises, and economic inequality.
 
-###**Code**
+### **Code**
 The start_year and end_year are passed as parameters to the API request, which is made through the following line of code:
 *response = requests.get(
     base_url.format(country_code=country["code"], indicator=indicator_code),
-    params={"format": "json", "date": f"{start_year}:{end_year}"},
+    params={"format": "json", "date": f"{start_year}:{end_year}"}, 
 )*
 The date parameter in the API request ensures that only data from the years 2015 to 2024 is fetched. The API returns data only within this range.
 
