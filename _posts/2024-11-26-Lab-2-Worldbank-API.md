@@ -4,8 +4,7 @@ title: Lab 2: Worldbank API
 subtitle: Exploring Global Development Indicators with World Bank Data
 cover-img: /assets/img/worldbank.png
 thumbnail-img: /assets/img/worldbank.png
-share-img: /assets/img/path.jpg
-tags: 
+share-img: /assets/img/path.jpg 
 author: Siddhant Jain
 ---
 
