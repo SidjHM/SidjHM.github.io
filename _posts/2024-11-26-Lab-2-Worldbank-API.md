@@ -97,6 +97,7 @@ The date parameter in the API request ensures that only data from the years 2015
     year = entry["date"]
     if entry["value"] is not None:
         ...*
+        
 This loop iterates over the data returned by the World Bank API, and each entry in the api_data[1] list corresponds to a specific year. The entry["date"] field contains the year, and the code checks if this year falls within the defined range (2015 to 2024). If an entry’s year is within the specified range and has a valid value (entry["value"] is not None), it is added to the data list.
 
 
