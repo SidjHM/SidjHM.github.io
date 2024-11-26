@@ -8,7 +8,12 @@ share-img: /assets/img/path.jpg
 author: Siddhant Jain
 ---
 
-**Introduction**
+#**Introduction**
+In a world driven by data, understanding global development trends requires analyzing key indicators that reflect the economic, social, and infrastructural health of nations. The World Bank provides a treasure trove of such data, allowing us to examine critical metrics that shape the trajectory of countries around the globe. In this blog, I dive into a selection of these indicators to uncover meaningful patterns and insights.  
+
+The analysis spans a diverse set of countries—India, the United States, China, Brazil, and Russia—and focuses on the years 2015 to 2023, a transformative decade marked by global upheavals and recoveries. From population growth and GDP trends to education spending and access to electricity, the indicators paint a vivid picture of development progress and challenges.  
+
+But why these particular metrics? Why these countries? And why this timeframe? In this post, I’ll walk you through my choices and explain how filtering the data helped streamline the analysis while ensuring depth and relevance. Let’s explore how these indicators tell the story of global growth, inequality, and resilience.
 
 
 
@@ -33,5 +38,53 @@ Education is central to a country’s long-term development. By measuring the pe
 
 **Children in Employment, Female and Male (%):**
 Child labor reflects broader socio-economic issues. These indicators illustrate the pressures on families and the effectiveness of laws protecting children’s rights. Disparities between genders can also highlight cultural norms and inequalities within societies.
+
+
+## **Did you filter any countries out? How, and why?**
+Yes, instead of analyzing all countries, I limited the dataset to five key nations: **India**, **United States**, **China**, **Brazil**, and **Russia**. 
+
+These countries were chosen based on the following rationale:
+**Diversity in Development Levels:** These nations range from *developing economies (India, Brazil)* to *developed economies (United States)*, with *China* and *Russia* occupying intermediate positions.
+**Geographic Representation:** By selecting countries from Asia, the Americas, and Europe, the analysis captures a global perspective on development trends.
+**Economic Significance:** These nations are among the world’s largest economies, making their data highly relevant for understanding global economic and social dynamics.
+While limiting the countries meant excluding some regions, it allowed for a more focused analysis of development trends among representative economies with varied challenges and strengths.
+
+###**Code**
+  if __name__ == "__main__":
+      # Define countries
+      countries = [
+  {"code": "IND", "name": "India"},
+  {"code": "USA", "name": "United States"},
+  {"code": "CHN", "name": "China"},
+  {"code": "BRA", "name": "Brazil"},
+  {"code": "RUS", "name": "Russia"},
+  ]
+
+
+## **Did you filter any years out? How, and why?**
+Yes, the analysis is focused on the years 2015 to 2024. 
+
+This period was chosen for several reasons:
+**Relevance to Current Trends:** This timeframe captures recent global events, including the economic disruptions of COVID-19, recovery efforts, and the impact of technological advances. It ensures that the insights are relevant to current policy and academic discussions.
+**Consistency Across Indicators:** The World Bank's data availability varies across indicators and countries. Selecting this range ensures that most indicators have sufficient data points for meaningful comparisons.
+**Avoiding Historical Bias:** Older data, while valuable for long-term trends, can be less reflective of current conditions due to shifts in policy, technology, and international dynamics.
+
+By focusing on this decade, the analysis highlights contemporary issues and progress, offering insights into how countries are adapting to modern challenges like climate change, health crises, and economic inequality.
+
+###**Code**
+The start_year and end_year are passed as parameters to the API request, which is made through the following line of code:
+*response = requests.get(
+    base_url.format(country_code=country["code"], indicator=indicator_code),
+    params={"format": "json", "date": f"{start_year}:{end_year}"},
+)*
+The date parameter in the API request ensures that only data from the years 2015 to 2024 is fetched. The API returns data only within this range.
+
+*for entry in api_data[1]:
+    year = entry["date"]
+    if entry["value"] is not None:
+        ...*
+This loop iterates over the data returned by the World Bank API, and each entry in the api_data[1] list corresponds to a specific year. The entry["date"] field contains the year, and the code checks if this year falls within the defined range (2015 to 2024). If an entry’s year is within the specified range and has a valid value (entry["value"] is not None), it is added to the data list.
+
+
 
 
