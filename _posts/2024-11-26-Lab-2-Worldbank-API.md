@@ -15,6 +15,18 @@ The analysis spans a diverse set of countries—India, the United States, China,
 
 But why these particular metrics? Why these countries? And why this timeframe? In this post, I’ll walk you through my choices and explain how filtering the data helped streamline the analysis while ensuring depth and relevance. Let’s explore how these indicators tell the story of global growth, inequality, and resilience.
 
+## **What extra query parameters did you use to query the World Bank API? What is the default number of results do you get per page? How do you get more results? Can you write code to guarantee that you get full coverage for the results?**
+
+**Extra query parameters:** 
+*Format:* Specifies the format in which the data is returned. In this case, "json" is used to ensure the data is returned in a JSON format.
+*Date:* Defines the range of years for which the data is requested. The start_year and end_year parameters are used here to limit the query to specific years (2015 to 2024 in the given code).
+
+**Default number of Results:**
+50
+
+**Code to guarantee full results:**
+Yes you can get more results. To retrieve additional results, the World Bank API provides pagination. You can request multiple pages of data by using the page query parameter. By default, the API returns the first page (page 1) of results. To fetch more pages, you need to increase the page number in the request.
+
 
 
 ## **What indicators from the World Bank did you choose to look at besides population, life expectancy, and GDP per capita? Why?**
