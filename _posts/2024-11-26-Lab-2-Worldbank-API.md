@@ -53,17 +53,11 @@ While limiting the countries meant excluding some regions, it allowed for a more
 
   *if __name__ == "__main__":*
       *countries = [*
-      
   *{"code": "IND", "name": "India"},*
-  
   *{"code": "USA", "name": "United States"},*
-  
   *{"code": "CHN", "name": "China"},*
-  
   *{"code": "BRA", "name": "Brazil"},*
-  
   *{"code": "RUS", "name": "Russia"},*
-  
   *]*
 
 
@@ -84,6 +78,7 @@ The start_year and end_year are passed as parameters to the API request, which i
     *base_url.format(country_code=country["code"], indicator=indicator_code),*
     *params={"format": "json", "date": f"{start_year}:{end_year}"},*
 *)*
+
 The date parameter in the API request ensures that only data from the years 2015 to 2024 is fetched. The API returns data only within this range.
 
 *for entry in api_data[1]:
