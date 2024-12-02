@@ -52,6 +52,8 @@ Education is central to a country’s long-term development. By measuring the pe
 Child labor reflects broader socio-economic issues. These indicators illustrate the pressures on families and the effectiveness of laws protecting children’s rights. Disparities between genders can also highlight cultural norms and inequalities within societies.
 
 
+
+
 ## **Did you filter any countries out? How, and why?**
 Yes, instead of analyzing all countries, I limited the dataset to five key nations: **India**, **United States**, **China**, **Brazil**, and **Russia**. 
 
@@ -71,6 +73,8 @@ While limiting the countries meant excluding some regions, it allowed for a more
   *{"code": "BRA", "name": "Brazil"},*
   *{"code": "RUS", "name": "Russia"},*
   *]*
+
+
 
 
 ## **Did you filter any years out? How, and why?**
@@ -99,6 +103,9 @@ The date parameter in the API request ensures that only data from the years 2015
         ...*
         
 This loop iterates over the data returned by the World Bank API, and each entry in the api_data[1] list corresponds to a specific year. The entry["date"] field contains the year, and the code checks if this year falls within the defined range (2015 to 2024). If an entry’s year is within the specified range and has a valid value (entry["value"] is not None), it is added to the data list.
+
+
+
 
 
 ## **Exploring P-Values in Indicator Relationships**
