@@ -101,5 +101,44 @@ The date parameter in the API request ensures that only data from the years 2015
 This loop iterates over the data returned by the World Bank API, and each entry in the api_data[1] list corresponds to a specific year. The entry["date"] field contains the year, and the code checks if this year falls within the defined range (2015 to 2024). If an entry’s year is within the specified range and has a valid value (entry["value"] is not None), it is added to the data list.
 
 
+### Exploring P-Values in Indicator Relationships
+
+P-values provide a way to measure the strength of evidence against the null hypothesis. A small p-value suggests a strong relationship between variables, while a larger one indicates the absence of a statistically significant relationship. Below, we examine a few indicator pairs from the dataset and interpret the results.
+
+---
+
+**1. India: Total Population vs. GDP (USD)**  
+P-value: \(7.45 \times 10^{-5}\)  
+This extremely small p-value suggests a highly significant relationship between India’s population and GDP. Given the sheer size of India's population and its consistent economic growth, this result is expected, as population growth often correlates with GDP changes in large, developing economies.
+
+---
+
+**2. United States: GDP per Capita (USD) vs. Children in Employment, Male (%)**  
+P-value: \(0.0358\)  
+The p-value indicates a statistically significant but relatively weak relationship. This makes sense because in developed economies like the U.S., GDP per capita is unlikely to be directly influenced by child labor rates, given their rarity due to strict regulations and high living standards.
+
+---
+
+**3. China: Total Population vs. Children in Employment, Male (%)**  
+P-value: \(3.35 \times 10^{-5}\)  
+This highly significant relationship is intriguing. It could reflect systemic labor dynamics where a large population creates economic environments that allow (or necessitate) higher rates of child employment in certain areas, despite efforts to curb child labor.
+
+---
+
+**4. Brazil: Total Population vs. Children in Employment, Male (%)**  
+P-value: \(0.0315\)  
+Here, the relationship is significant but not overly strong. In Brazil, child labor remains an issue, particularly in rural areas. A link between population size and child employment is plausible, as larger populations may drive demand for labor in informal sectors.
+
+---
+
+**5. Russia: GDP (USD) vs. Unemployment Rate (%)**  
+P-value: \(0.00102\)  
+This result is unsurprising as GDP is a direct reflection of economic performance, which inversely correlates with unemployment. A robust economy generally leads to higher GDP and lower unemployment rates.
+
+---
+
+### Surprises and Reflections
+For the most part, these results align with intuition. Significant p-values often emerge for pairs where socioeconomic relationships are well-documented, such as between GDP and population. However, some weaker correlations, like those involving child employment, hint at complex, localized factors that merit further exploration. These findings highlight how data can unveil stories behind the numbers, sparking curiosity about their underlying causes.
+
 
 
