@@ -92,5 +92,8 @@ By making this adjustment, there is a slight increase in the correlation between
 
 ### **Limitations of your analysis and the dataset?**
 
+The dataset lacks advanced metrics that would allow a deeper analysis of the underlying factors influencing auction bids. For instance, it does not provide situational data, such as the conditions under which runs were scored or how effective players were during the final overs of a game. These insights could be crucial in understanding the context behind the numbers and their impact on auction bids. Additionally, my current understanding of statistical methods limits my ability to employ advanced techniques to quantify the relationship between the available statistics and a player's winning bid. This restricts the depth and precision of the analysis.
 
 ## **What conclusions can you draw about this dataset? What is your supporting evidence?**
+
+The analysis of the dataset suggests that the statistics used—Runs, Average, Wickets, and Strike Rate—do not provide a clear indication of what impacts the winning bid of a player in the auction. This implies that factors beyond numerical performance metrics, such as team requirements, player popularity, and subjective evaluations, play a significant role in determining a player's value. The lack of significant results from these statistics highlights the complexity of the auction process, where qualitative factors may outweigh quantitative ones.
