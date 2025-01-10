@@ -28,6 +28,25 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 
 ### **Distributions of variables (center and variability, e.g. std.dev or IQR)**
 
+**Batters**
+
+*Average*
+![Avg](/assets/img/BoxPlot_Avg.png)
+
+*Runs*
+![Runs](/assets/img/BoxPlot_Runs.png)
+
+
+**Bowlers**
+
+*Wkts*
+![Wkts](/assets/img/BoxPlot_Wkts.png)
+
+*SR*
+![SR](/assets/img/BoxPlot_Wkts.SR)
+
+
+
 ### **Visualizations of the dataset**
 
 **Batters**
