@@ -55,7 +55,7 @@ By making this adjustment, there is a significant increase in the correlation be
 ![Avg_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_Wkts.png)
 
 *Winning Bid vs Runs*
-![Runs_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_Wkts.png)
+![Runs_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_SR.png)
 
 ### **Limitations of your analysis and the dataset?**
 
