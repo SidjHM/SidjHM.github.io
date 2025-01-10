@@ -43,6 +43,8 @@ There is little to no correlation between Runs and Avg and the Winning Bid as sh
 *Winning Bid vs Runs*
 ![Runs_filtered](/assets/img/Filtered:Winning_Bid_vs_Runs.png)
 
+By making this adjustment, there is a significant increase in the correlation between Runs and Winning Bid. Unfortunately, despite this uptick, these values are not significant enough (r^2 > 0.75) for us to assume that the amount of Runs a player scored impacts their pricetag.
+
 ### **Visualizations of the dataset**
 
 ### **Limitations of your analysis and the dataset?**
