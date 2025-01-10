@@ -28,11 +28,12 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 
 ### **Distributions of variables (center and variability, e.g. std.dev or IQR)**
 
-**Batters**
 
+**Batters**
 *Average*
 
 ![Avg](/assets/img/BoxPlot_Avg.png)
+
 
 *Runs*
 
@@ -40,15 +41,14 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 
 
 **Bowlers**
-
 *Wkts*
 
 ![Wkts](/assets/img/BoxPlot_Wkts.png)
 
+
 *SR*
 
 ![SR](/assets/img/BoxPlot_Wkts.SR)
-
 
 
 ### **Visualizations of the dataset**
@@ -81,6 +81,13 @@ By making this adjustment, there is a significant increase in the correlation be
 ![Runs_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_SR.png)
 
 There is no massive correlation between Wickets/SR and Winning Bid. However, much like the batters graphs, this dataset includes every player who bowled in the IPL. Batters are occasionally called to bowl in the IPL, and their lack of wickets and bowling ability skews this dataset. Their high prices skew the graphs towards the 0, creating a flawed image. The code below graphs Bowlers who bowl more than 2.5 overs per game in the IPL. By doing this, we are now exclusively looking at players whose main priority is bowling. 
+
+*Winning Bid vs Wickets*
+![Avg_Unfiltered](/assets/img/Filter:Winning_Bid_vs_Wkts.png)
+
+*Winning Bid vs Runs*
+![Runs_Unfiltered](/assets/img/Filter:Winning_Bid_vs_SR.png)
+
 
 ### **Limitations of your analysis and the dataset?**
 
