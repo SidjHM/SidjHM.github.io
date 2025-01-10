@@ -2,8 +2,8 @@
 layout: post
 title: Lab 3-Individual Datasets
 subtitle: Statistics of IPL 2024 and their Impact on the 2025 Mega Auction
-cover-img: /assets/img/worldbank.png
-thumbnail-img: /assets/img/worldbank.png
+cover-img: /assets/img/Auction.jpeg
+thumbnail-img: /assets/img/IPL.jpg
 share-img: /assets/img/path.jpg 
 author: Siddhant Jain
 ---
