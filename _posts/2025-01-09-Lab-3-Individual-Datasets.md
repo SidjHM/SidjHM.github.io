@@ -92,6 +92,7 @@ There is no massive correlation between Wickets/SR and Winning Bid. However, muc
 *Winning Bid vs Runs*
 ![Runs_Unfiltered](/assets/img/Filter:Winning_Bid_vs_SR.png)
 
+By making this adjustment, there is a slight increase in the correlation between Wkts and Winning Bid. Unfortunately, despite this uptick, these values are not significant enough (r^2 > 0.75) for us to assume that the amount of Runs a player scored impacts their pricetag.
 
 ### **Limitations of your analysis and the dataset?**
 
