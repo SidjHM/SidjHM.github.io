@@ -30,6 +30,7 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 
 
 **Batters**
+
 *Average*
 
 ![Avg](/assets/img/BoxPlot_Avg.png)
@@ -40,7 +41,9 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 ![Runs](/assets/img/BoxPlot_Runs.png)
 
 
+
 **Bowlers**
+
 *Wkts*
 
 ![Wkts](/assets/img/BoxPlot_Wkts.png)
@@ -49,6 +52,7 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 *SR*
 
 ![SR](/assets/img/BoxPlot_SR.png)
+
 
 
 ### **Visualizations of the dataset**
