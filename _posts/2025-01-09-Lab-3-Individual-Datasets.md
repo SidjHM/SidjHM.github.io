@@ -57,7 +57,7 @@ By making this adjustment, there is a significant increase in the correlation be
 *Winning Bid vs Runs*
 ![Runs_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_SR.png)
 
-There is no massive correlation between Wickets/SR and Winning Bid. However, much like the batters graphs, this dataset includes every player who bowled in the IPL. Batters are occasionally called to bowl in the IPL, and their lack of wickets and bowling ability skews this dataset. Their high prices skew the graphs towards the 0, creating a flawed image. The code below graphs Bowlers who have bowled more than 20 overs in the IPL. By doing this, we are now exclusively looking at players whose main priority is bowling. 
+There is no massive correlation between Wickets/SR and Winning Bid. However, much like the batters graphs, this dataset includes every player who bowled in the IPL. Batters are occasionally called to bowl in the IPL, and their lack of wickets and bowling ability skews this dataset. Their high prices skew the graphs towards the 0, creating a flawed image. The code below graphs Bowlers who bowl more than 2.5 overs per game in the IPL. By doing this, we are now exclusively looking at players whose main priority is bowling. 
 
 ### **Limitations of your analysis and the dataset?**
 
