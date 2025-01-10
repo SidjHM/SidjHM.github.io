@@ -30,18 +30,18 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 **Batters**
 
 *Winning Bid vs Batting Average*
-![Avg_Unfiltered]/assets/img/Batter:Winning_Bid_vs_Avg.png
+![Avg_Unfiltered](/assets/img/Batter:Winning_Bid_vs_Avg.png)
 
 *Winning Bid vs Runs*
-![Runs_Unfiltered]/assets/img/Batter:Winning_Bid_vs_Runs.png
+![Runs_Unfiltered](/assets/img/Batter:Winning_Bid_vs_Runs.png)
 
 There is little to no correlation between Runs and Avg and the Winning Bid as shown above. However, there is a fundamental error with this calculation. This code graphs these statistics versus only Batters who average more than 25 runs in the Batters.csv file. Bowlers also have to bat in the IPL. The very best bowlers usually go for high prices, but they are not good batters, and hence do not score many runs. However, their high price and mere presence in the dataset skews the data towards 0, as most bowlers bat late in the game. By only looking at Batters who have averages greater than 25, we are looking at players whose main job is to bat, limiting the dataset to better understand the value of a batter. Here are the updated calculations based on these parameters:
 
 *Winning Bid vs Batting Average*
-![Avg_filtered] /assets/img/Filtered:Winning_Bid_vs_Avg.png
+![Avg_filtered](/assets/img/Filtered:Winning_Bid_vs_Avg.png)
 
 *Winning Bid vs Runs*
-![Runs_filtered] /assets/img/Filtered:Winning_Bid_vs_Runs.png
+![Runs_filtered](/assets/img/Filtered:Winning_Bid_vs_Runs.png)
 
 ### **Visualizations of the dataset**
 
