@@ -51,6 +51,11 @@ By making this adjustment, there is a significant increase in the correlation be
 
 **Bowlers**
 
+*Winning Bid vs Wickets*
+![Avg_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_Wkts.png)
+
+*Winning Bid vs Runs*
+![Runs_Unfiltered](/assets/img/Bowler:Winning_Bid_vs_Wkts.png)
 
 ### **Limitations of your analysis and the dataset?**
 
