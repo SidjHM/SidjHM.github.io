@@ -23,9 +23,12 @@ The purpose of this analysis was to understand the relationship between the Winn
 ### **The variables you looked at**
 
 For Battters, I looked at *Runs* and *Average* and their relationship to the winning bid.
+
 For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to the winning bid.
 
 ### **Distributions of variables (center and variability, e.g. std.dev or IQR)**
+
+### **Visualizations of the dataset**
 
 **Batters**
 
@@ -45,7 +48,9 @@ There is little to no correlation between Runs and Avg and the Winning Bid as sh
 
 By making this adjustment, there is a significant increase in the correlation between Runs and Winning Bid. Unfortunately, despite this uptick, these values are not significant enough (r^2 > 0.75) for us to assume that the amount of Runs a player scored impacts their pricetag.
 
-### **Visualizations of the dataset**
+
+**Bowlers**
+
 
 ### **Limitations of your analysis and the dataset?**
 
