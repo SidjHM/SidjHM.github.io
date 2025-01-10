@@ -20,16 +20,16 @@ The purpose of this analysis was to understand the relationship between the Winn
 
 
 ## **3. Discuss your analysis of the dataset**
-#### **The variables you looked at**
+### **The variables you looked at**
 
 For Battters, I looked at *Runs* and *Average* and their relationship to the winning bid.
 For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to the winning bid.
 
-#### **Distributions of variables (center and variability, e.g. std.dev or IQR)**
+### **Distributions of variables (center and variability, e.g. std.dev or IQR)**
 
-#### **Visualizations of the dataset**
+### **Visualizations of the dataset**
 
-#### **Limitations of your analysis and the dataset?**
+### **Limitations of your analysis and the dataset?**
 
 
-### **What conclusions can you draw about this dataset? What is your supporting evidence?**
+## **What conclusions can you draw about this dataset? What is your supporting evidence?**
