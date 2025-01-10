@@ -48,7 +48,7 @@ For Bowlers, I looked at *Wickets* and *Strike Rate* and their relationship to t
 
 *SR*
 
-![SR](/assets/img/BoxPlot_Wkts.SR)
+![SR](/assets/img/BoxPlot_SR.png)
 
 
 ### **Visualizations of the dataset**
