@@ -32,13 +32,13 @@ Despite spending a lot of time, my efforts did not bear fruit, and I have nothin
 
 ![Cars Exported by Germany](/assets/img/German_Exports.png)
 
-The purpose of this data is to look at the the amount of cars exported by Germany to different countries in the world. It is very interesting in the way the graphs were set up, and showcases just how big the U.S. mark is for german brands and how much revenue/profit they extract from the US. I chose it because very interesting in the way it showed data, and I felt like it would be an easier graph for me to make after a failed attempt at attempting an extremely had visualization. 
+The purpose of this data is to look at the times of the day that people usually went househunting, and the traffic that accompanied it. I chose it because very interesting in the way it showed data, and I felt like it would be an easier graph for me to make after a failed attempt at attempting an extremely had visualization. 
 
 **Marks:** 
 Rectangle
 
 **Channels:**
-Size, Position, and Color of Rectangle
+X-Axis, Y-Axis, Color of Rectangle
 
 ## **My Attempt**
 I tried to replicate this graph using some NBA data that I had generated in the past, and was successful. The sqaures, and positioning of the treemap were easier to generate than the concentric circles, and while the sizing took time to perfect, I feel like I had a decent sizing of each rectangle relative to others.
