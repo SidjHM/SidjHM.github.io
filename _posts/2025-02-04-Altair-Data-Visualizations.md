@@ -9,4 +9,6 @@ tags: [Altair, Lab]
 author: Siddhant Jain
 ---
 
-# **Introduction**
+# **Graph 1: Lifespan of Cars**
+
+![Lifespan of Cars](/assets/img/Cars.jpg)
