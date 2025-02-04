@@ -30,7 +30,7 @@ Despite spending a lot of time, my efforts did not bear fruit, and I have nothin
 
 # **Graph 2: Cars Exported by Germany**
 
-![Cars Exported by Germany](/assets/img/German_Exports.png)
+![Cars Exported by Germany](/assets/img/Househunting.png)
 
 The purpose of this data is to look at the times of the day that people usually went househunting, and the traffic that accompanied it. I chose it because very interesting in the way it showed data, and I felt like it would be an easier graph for me to make after a failed attempt at attempting an extremely had visualization. 
 
