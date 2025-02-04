@@ -30,5 +30,5 @@ Despite spending a lot of time, my efforts did not bear fruit, and I have nothin
 
 # **Graph 2: Cars Exported by Germany**
 
-![Cars Exported by Germany](/assets/img/)
+![Cars Exported by Germany](/assets/img/German Exports.pmg)
 
