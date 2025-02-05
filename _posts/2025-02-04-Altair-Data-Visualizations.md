@@ -30,7 +30,7 @@ Despite spending a lot of time, my efforts did not bear fruit, and I have nothin
 
 # **Graph 2: Househunting**
 
-![Househunting](/assets/img/Househunting.png)
+![Househunting](/assets/img/househunting.png)
 
 The purpose of this data is to look at when and where the ultra-rich of different continents are likely to buy their homes. I chose it because very interesting in the way it showed data, and I felt like it would be an easier graph for me to make after a failed attempt at attempting an extremely had visualization. 
 
@@ -41,5 +41,7 @@ Rectangle
 X-Axis, Y-Axis, Color of Rectangle
 
 ## **My Attempt**
-I tried to replicate this graph using Vega's Airports dataset, and was successful. The bubbles of each airport to generate than the concentric circles, and while the sizing took time to perfect, I feel like I had a decent sizing of each rectangle relative to others.
+I tried to replicate this graph using Vega's Cars dataset, and was successful. I graphed the horsepower vs miles_per_gallon, setting the size of the bubble to indicate its weight, while each bubble's color indicated its country of origin. My github repository contains the image of my graph, while the interactive version is down below.
+
+### **My Graph**
 
