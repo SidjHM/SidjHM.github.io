@@ -22,11 +22,11 @@ The dataset does not differentiate based on the day of the week that you are tak
 
 
 # **Graphs**
-![Dist v Price](/assets/img/ns7mc2jd1f0reuug5v4cr4jo65.jpg)
+![Dist v Price](/assets/img/Dist_v_Price_for_Cab.png)
 
 
 
-![Dist v Price for Cab](/assets/img/ns7mc2jd1f0reuug5v4cr4jo65.jpg)
+![Dist v Price for Cab](/assets/img/Dist_v_Price.png)
 
 **R^2 Values**
 
