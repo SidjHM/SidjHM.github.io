@@ -31,20 +31,36 @@ The dataset does not differentiate based on the day of the week that you are tak
 ![Dist v Price for Cab](/assets/img/Dist_v_Price.png)
 
 ### **R^2 Values**
+
+
 #### **Lyft**
+
+
 Shared: 0.4124
+
 Lux: 0.6997
+
 Lyft: 0.6086
+
 Lux Black XL: 0.4865
+
 Lyft XL: 0.6634
+
 Lux Black: 0.6611
 
 #### **Uber**
+
+
 UberXL: 0.6180
+
 Black: 0.8339
+
 UberX: 0.5405
+
 WAV: 0.5405
+
 Black SUV: 0.7369
+
 UberPool: 0.4503
 
 
