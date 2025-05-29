@@ -37,15 +37,10 @@ The dataset does not differentiate based on the day of the week that you are tak
 
 
 Shared: 0.4124
-
 Lux: 0.6997
-
 Lyft: 0.6086
-
 Lux Black XL: 0.4865
-
 Lyft XL: 0.6634
-
 Lux Black: 0.6611
 
 #### **Uber**
