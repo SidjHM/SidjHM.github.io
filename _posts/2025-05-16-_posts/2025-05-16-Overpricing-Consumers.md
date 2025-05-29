@@ -21,10 +21,10 @@ The dataset does not differentiate based on the day of the week that you are tak
 
 
 
-#**Graphs**
+# **Graphs**
 
 
-#**Findings**
+# **Findings**
 Surge multiplier is unaffected by the time of the day or the day that you took the cab on. This indicates that the most likely factor is where you book a cab from, suggesting that places where demand is higher (heavily crowded spaces), the prices are higher.
 
 
