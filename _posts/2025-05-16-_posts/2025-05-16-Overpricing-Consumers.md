@@ -19,7 +19,7 @@ The dataset used for this project was sourced from [**Kaggle**](https://www.kagg
 
 
 ## **Limitations**
-The dataset does not differentiate based on the day of the week that you are taking a cab. In doing so, it avoids the fact that prices tend to be much cheaper on friday, saturday, and sunday because there are not as many drivers and there are more people who want to use cabs because of the party nature of these days. 
+The dataset does not differentiate based on the day of the week that you are taking a cab. In doing so, it avoids the fact that prices tend to be much cheaper on friday, saturday, and sunday because there are not as many drivers and there are more people who want to use cabs because of the party nature of these days. Additionally, it does not do a great job of marking which locations are considered hot-beds (high demand areas), which would help identify the difference in price if you were to book from there vs from somewhere else. For example, if one is to a ride within New York City, the price is much higher for the same distance compared to someone who booked a ride outside the city. 
 
 
 
@@ -71,5 +71,7 @@ UberPool: 0.4503
 Surge multiplier is unaffected by the time of the day or the day that you took the cab on. This indicates that the most likely factor is where you book a cab from, suggesting that places where demand is higher (heavily crowded spaces), the prices are higher.
 
 
-In the span on this dataset in 2018, lyft was more expensive than uber, and as such, people took uber for long journeys (6+ miles).
+In the span on this dataset in 2018, lyft was more expensive than uber, and as such, people took uber for long journeys (6+ miles). 
+
+Additionally, we see that there is not an extremely high correlation between distance and price for any cab type except Uber Black. The Black SUV and the Lyft Lux have some degree of correlation, but none of them significant enough to make any conjectures. This could be because of where people take ubers from, what time they take them, and other such factors that I was not able to explain. 
 
